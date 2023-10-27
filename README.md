@@ -1,3 +1,5 @@
+# brew install topcheer/sshpass/sshpass
+
 # homebrew-sshpass
 [sshpass](https://sourceforge.net/projects/sshpass/) formula for Homebrew.
 
